@@ -1,1 +1,8 @@
-creating codeowners
+# Owner for all files
+* @Arpithadn
+
+# Owner for README
+README.md @Arpithadn
+
+# Owner for .github configs
+.github/* @Arpithadn
